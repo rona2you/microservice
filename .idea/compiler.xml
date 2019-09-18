@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
-        <module name="microservice" />
+        <module name="feign" />
         <module name="ribbon" />
         <module name="server" />
       </profile>
@@ -16,6 +16,7 @@
       <module name="client" target="1.8" />
       <module name="client (1)" target="1.8" />
       <module name="client2" target="1.8" />
+      <module name="feign" target="1.8" />
       <module name="microservice" target="1.5" />
       <module name="ribbon" target="1.8" />
       <module name="server" target="1.8" />
