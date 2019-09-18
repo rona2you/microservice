@@ -98,7 +98,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
@@ -500,12 +500,14 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="46879000" />
+    <option name="totallyTimeSpent" value="32057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15191898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22921109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -587,25 +589,18 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/client2/HELP.md" />
-    <entry file="file://$PROJECT_DIR$/client/client.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client.iml" />
     <entry file="file://$PROJECT_DIR$/client2/client (1).iml" />
     <entry file="file://$PROJECT_DIR$/server/mvnw">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/server.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.iml" />
     <entry file="file://$PROJECT_DIR$/client2/src/test/java/com/client/Client2ApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/client2/mvnw.cmd" />
     <entry file="file://$PROJECT_DIR$/client2/client2.iml" />
     <entry file="file://$PROJECT_DIR$/client2/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/microservice.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/client2/src/main/java/com/client/Client2Application.java" />
     <entry file="file://$PROJECT_DIR$/client2/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/ribbon/ribbon.iml">
@@ -761,6 +756,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/microservice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/main/java/com/client/ClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -813,7 +811,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
