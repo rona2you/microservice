@@ -10,6 +10,7 @@
         <module name="feign" />
         <module name="ribbon" />
         <module name="server" />
+        <module name="zull" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="microservice" target="1.5" />
       <module name="ribbon" target="1.8" />
       <module name="server" target="1.8" />
+      <module name="zull" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

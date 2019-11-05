@@ -24,4 +24,10 @@ public class ClientApplication {
     public String home() {
         return "hello world from port " + port;
     }
+
+
+    @RequestMapping("/client1")
+    public String client1() {
+        return "client1 : hello world from port " + port;
+    }
 }
